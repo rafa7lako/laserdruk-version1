@@ -20,7 +20,8 @@ export default {
         'hero-img': "url('/Frame6.jpg')",
         'car-wrap': "url('/carWrap.jpg')",
         'shirt-print': "url('/shirt.jpg')",
-        'stamp-img': "url('/stamp.jpg')"
+        'stamp-img': "url('/stamp.jpg')",
+        'logo': "url('/las3.png')"
       }
     },
   },
