@@ -9,7 +9,8 @@ export default {
   theme: {
     fontFamily: {
       'display': ['Oswald', 'sans-serif'],
-      'body': ['PT_Sans', 'sans-serif']
+      'body': ['PT_Sans', 'sans-serif'],
+      'roboto': ['Roboto', 'sans-serif']
     },
     extend: {
       colors: {

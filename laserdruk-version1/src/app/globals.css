@@ -16,6 +16,7 @@
 
 body {
   color: var(--background);
-  background: #fff7ed;
-  font-family: Raleway, Helvetica, sans-serif;
+  background: linear-gradient(to bottom right, #333339, #29292E);
+  height: 100vh;
+  font-family: Roboto, Helvetica, sans-serif;
 }

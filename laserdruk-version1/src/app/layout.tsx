@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Oswald, Raleway } from "next/font/google";
+import { Oswald, Raleway, Roboto } from "next/font/google";
 import "./globals.css";
 
 const oswald = Oswald({
@@ -9,6 +9,12 @@ const oswald = Oswald({
 
 const raleway = Raleway({
   variable: "--font-raleway",
+  subsets: ["latin"],
+});
+
+const roboto = Roboto({
+  variable: "--font-roboto",
+  weight: '400',
   subsets: ["latin"],
 });
 
@@ -25,7 +31,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${oswald.variable} ${raleway.variable} antialiased`}
+        className={`${oswald.variable} ${raleway.variable} ${roboto.variable} antialiased`}
       >
         {children}
       </body>
