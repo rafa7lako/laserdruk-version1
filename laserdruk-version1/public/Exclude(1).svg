@@ -1,0 +1,11 @@
+<svg width="636" height="600" viewBox="0 0 636 600" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M636 8C636 3.58172 632.418 0 628 0H8C3.58172 0 0 3.58171 0 7.99999V592C0 596.418 3.58172 600 8 600H468C472.418 600 476 596.418 476 592V564C476 559.582 479.582 556 484 556H628C632.418 556 636 552.418 636 548V8Z" fill="url(#pattern0_263_417)"/>
+<path d="M8 0.5H628C632.142 0.5 635.5 3.85786 635.5 8V548C635.5 552.142 632.142 555.5 628 555.5H484C479.306 555.5 475.5 559.306 475.5 564V592C475.5 596.142 472.142 599.5 468 599.5H8C3.85786 599.5 0.5 596.142 0.5 592V7.99999C0.5 3.85786 3.85786 0.5 8 0.5Z" stroke="url(#paint0_linear_263_417)" stroke-opacity="0.4"/>
+<defs>
+<pattern id="pattern0_263_417" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_263_417" transform="matrix(0.000707724 0 0 0.000750188 -0.207724 0)"/>
+</pattern>
+<linearGradient id="paint0_linear_263_417" x1="-14.3618" y1="-37.5" x2="947.165" y2="737.366" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#999999" stop-opacity="0"/>
+</linearGradient>
